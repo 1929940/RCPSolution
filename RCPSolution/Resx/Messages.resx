@@ -136,16 +136,16 @@
     <value>W wierszu {0} wykryto dane o niepoprawnym formacie w kolumnie z {1}. Pomijam wiersz.</value>
   </data>
   <data name="NO_ENTRY_FOUND" xml:space="preserve">
-    <value>Nie odnaleziono wejścia dla pracownika {0} na dzień {1}.</value>
+    <value>Nie odnaleziono wejścia dla pracownika {0} na dzień {1:d}.</value>
   </data>
   <data name="NO_EXIT_FOUND" xml:space="preserve">
-    <value>Nie odnaleziono wyjścia dla pracownika {0} na dzień {1}.</value>
+    <value>Nie odnaleziono wyjścia dla pracownika {0} na dzień {1:d}.</value>
   </data>
   <data name="TOO_MANY_ENTRIES" xml:space="preserve">
-    <value>Wykryto zbyt wysoką liczbę wyjść dla pracownika {0} na dzień {1}.</value>
+    <value>Wykryto zbyt wysoką liczbę wyjść dla pracownika {0} na dzień {1:d}.</value>
   </data>
   <data name="TOO_MANY_EXITS" xml:space="preserve">
-    <value>Wykryto zbyt wysoką liczbę wejść dla pracownika {0} na dzień {1}.</value>
+    <value>Wykryto zbyt wysoką liczbę wejść dla pracownika {0} na dzień {1:d}.</value>
   </data>
   <data name="UNKNOWN_FORMAT" xml:space="preserve">
     <value>Dane w pliku {0} znajdują się w obcym formacie.</value>

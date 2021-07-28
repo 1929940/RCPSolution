@@ -115,7 +115,7 @@ namespace RCPSolution.Resx {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Nie odnaleziono wejścia dla pracownika {0} na dzień {1}..
+        ///   Looks up a localized string similar to Nie odnaleziono wejścia dla pracownika {0} na dzień {1:d}..
         /// </summary>
         internal static string NO_ENTRY_FOUND {
             get {
@@ -124,7 +124,7 @@ namespace RCPSolution.Resx {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Nie odnaleziono wyjścia dla pracownika {0} na dzień {1}..
+        ///   Looks up a localized string similar to Nie odnaleziono wyjścia dla pracownika {0} na dzień {1:d}..
         /// </summary>
         internal static string NO_EXIT_FOUND {
             get {
@@ -133,7 +133,7 @@ namespace RCPSolution.Resx {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wykryto zbyt wysoką liczbę wyjść dla pracownika {0} na dzień {1}..
+        ///   Looks up a localized string similar to Wykryto zbyt wysoką liczbę wyjść dla pracownika {0} na dzień {1:d}..
         /// </summary>
         internal static string TOO_MANY_ENTRIES {
             get {
@@ -142,7 +142,7 @@ namespace RCPSolution.Resx {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wykryto zbyt wysoką liczbę wejść dla pracownika {0} na dzień {1}..
+        ///   Looks up a localized string similar to Wykryto zbyt wysoką liczbę wejść dla pracownika {0} na dzień {1:d}..
         /// </summary>
         internal static string TOO_MANY_EXITS {
             get {

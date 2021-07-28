@@ -57,7 +57,7 @@ namespace RCPSolution.Logic {
         }
         void PrintDniPracy(IEnumerable<DzienPracy> dniPracy) {
             foreach (var dzienPracy in dniPracy) {
-                Console.WriteLine($"{dzienPracy.KodPracownika}\t{dzienPracy.Data}\t{dzienPracy.GodzinaWejscia}\t{dzienPracy.GodzinaWyjscia}");
+                Console.WriteLine($"{dzienPracy.KodPracownika}\t{dzienPracy.Data:d}\t{dzienPracy.GodzinaWejscia}\t{dzienPracy.GodzinaWyjscia}");
             }
         }
     }
